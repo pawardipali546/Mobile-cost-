@@ -1,0 +1,283 @@
+brand,model_name,ops,display_technology,colour,storage,ram,battery,weight,display_size,Review,price
+Generic,Pnd-jioSMP,Android 10.0,AMOLED,Blue,32,2,3750,232,15.25,5,4599
+Samsung,Galaxy M12,Android 11,LCD,Black,128,6,5750,221,16.4,4.1,12499
+Vivo,Y15C,Funtouch OS 12 (Based on Android 12),AMOLED,Wave Green,64,3,5000,179,16.4,3.1,10499
+Samsung,Galaxy M32 5G,Android 11,LCD,Slate Black,128,8,5000,202,16.4,4.1,18999
+Redmi,Redmi 9 Activ,"MIUI 12, Android MIUI 12",AMOLED,Carbon Black,64,4,5000,194,16.5,4.2,8999
+IQOO,IQOO Z5 5G,"Android 11 based Funtouch OS 12, Funtouch OS 12 based on Android 11",AMOLED,Mysic Space,128,8,5000,193,16.5,4.2,23990
+Redmi,Redmi Note 10 Pro,Android,AMOLED,Dark Night,128,6,5020,192,16.5,4.2,15999
+Redmi,Redmi Note 11T 5G,MIUI 12.5 based on Android 11,AMOLED,Matte Black,512,8,5000,195,16.4,4.1,17999
+Oppo,F21 Pro 5G,Android 11,AMOLED,Rainbow Spectrum,128,8,4500,173,16,4,26999
+Redmi,Redmi Note 10 Pro,Android,AMOLED,Vintage Bronze,128,6,5020,192,16.5,4.2,15999
+Motorola,G22,Android 12,AMOLED,Cosmos Black,64,4,5000,185,16.4,3.1,13495
+Vivo,Vivo Y73,"Android 11 - Funtouch OS 11.1, Funtouch OS 11.1 (Based on Android 11)",AMOLED,Diamond Flare,128,8,4000,170,16.1,4.4,19989
+IQOO,IQOO Z6 5G,Funtouch OS 12 based on Android 12,AMOLED,Dynamo Black,128,8,5000,187,16.4,4,17999
+Xiaomi,P19T,MIUI 12.5,AMOLED,Bifrost Blue,64,8,5750,192,16.2,4.1,10999
+IQOO,IQOO Z6 44W,Funtouch OS 12 based on Android 12,AMOLED,Raven Black,128,4,5000,182,16.1,4.1,14499
+Nokia,Nokia C01,Android 11 (Go edition),LCD,Grey,16,2,3750,157,15.25,3.6,6298
+Tecno,Spark 8C,"HiOS 7.6 based on Android 11, Android 10.0",LCD,Turquoise Cyan,3,3,5000,193,16.5,4.2,8499
+Redmi,Redmi Note 11,MIUI 13,AMOLED,Stardust White,64,4,5000,179,16,4.1,12999
+Nokia,Nokia C01 Plus,Android 11 (Go edition),LCD,Grey,128,2,3750,157,15.25,3.6,6549
+Samsung,Samsung Galaxy A03,Android 11,AMOLED,Blue,32,3,5000,196,16.4,3.2,9999
+Lava,Z61pro,Android 9.0,AMOLED,Champagne Gold,16,2,3750,160,15.25,3.8,5090
+Vivo,"Vivo Y21T (Midnight Blue, 4GB RAM, 128GB ROM)",Funtouch OS 12 (Based on Android 11),AMOLED,Midnight Blue,512,4,5000,182,16.4,4.2,16490
+Lenovo,K3 Note,Android,LCD,Yellow,16,2,3750,152,15.3,4.1,6499
+Realme,Realme narzo 50i,Android 11,LCD,Carbon Black,32,2,5000,195,16.5,4,7499
+Tecno,Spark 8C,"HiOS 7.6 based on Android 11, Android 10.0",LCD,Iris Purple,3,3,5000,193,16.5,4.2,8499
+Vivo,Y15C,Funtouch OS 12 (Based on Android 12),LCD,Wave Green,32,3,5000,179,16.4,3.1,9499
+Redmi,Redmi 9 Activ,Android MIUI 12,AMOLED,Metallic Purple,512,6,5000,194,16.5,4.2,10999
+Generic,8S,Android 11,AMOLED,Light Silver,8,4,3750,195,15.25,4.2,9399
+Vivo,5660171,Funtouch OS 12 (Based on Android 11),AMOLED,Starlight Black,128,8,5000,182,16.4,3.5,21990
+IKALL,Green,Android 10.0,AMOLED,Green,64,4,4000,232,15.8,5,7499
+Samsung,Redmi Note 11,Android 11,AMOLED,Matte Black,128,6,5000,232,15.25,3.7,14878
+Tecno,Spark 8C,"HiOS 7.6 based on Android 11, Android 10.0",LCD,Magnet Black,3,3,5000,193,16.5,4.2,8499
+Tecno,Pova 3,HiOS 8.6 based on Android 12,AMOLED,Electric Blue,64,8,5750,230,17.25,4.3,11999
+Samsung,Galaxy M12,Android 11,LCD,Blue,64,4,5750,221,16.4,4.1,10499
+IKALL,Blue,Android 8.1,AMOLED,Blue,32,4,3750,232,15.25,4.2,5399
+Realme,Realme narzo 50i,Android 11,LCD,Carbon Black,64,4,5000,195,16.5,4,8999
+Redmi,Redmi 9A (3GB+32GB),Android 10.0,HD+,Midnight Black,32,3,5000,194,16.5,4.2,7799
+Infinix,Zero 5G,Android 11,AMOLED,Cosmic Black,128,8,5000,232,16.9,4.2,17999
+Oppo,A54,Android 10.0,AMOLED,Crystal Black,64,4,5000,192,16.4,4.2,10990
+IQOO,IQOO Z6 5G,Funtouch OS 12 based on Android 12,AMOLED,Dynamo Black,128,6,5000,187,16.4,4,16999
+Realme,Realme narzo 30 5G,Android 11,LCD,Racing Silver,128,6,5000,185,16.3,4.2,16999
+Vivo,"Vivo Y33T (Mid Day Dream, 8GB RAM, 128GB ROM)",Funtouch OS 12 (Based on Android 11),AMOLED,Mid Day Dream,128,4,5000,182,16.4,4.1,17990
+Samsung,Galaxy M32 5G,Android 11,LCD,Slate Black,128,6,5000,202,16.4,4.1,16999
+Realme,C35,Android 11,AMOLED,Glowing Green,128,4,5000,189,16.4,3.6,13495
+Redmi,Redmi Note 10T,"MIUI 12, Android 11 - MIUI 12",AMOLED,Graphite black,64,4,5000,190,16.2,4.2,11999
+OnePlus,OnePlus Nord CE 2 5G,OxygenOS,AMOLED,Gray Mirror,128,6,4500,173,16.1,4.3,23999
+Poco,C31,Android 10.0,"LCD, LED",Royal Blue,4,4,5000,232,17.25,3.5,9048
+Vivo,"Vivo Y21G (Diamond Glow, 4GB RAM, 64GB ROM)",Funtouch OS 12 (Based on Android 11),AMOLED,Diamond Glow,64,4,5000,182,16.4,3.9,13499
+Samsung,Samsung Galaxy M53 5G,Android | 12.0,AMOLED,Deep Ocean Blue,128,8,5000,176,16.5,3.8,28499
+Nokia,Nokia C01 Plus,Android 11 (Go edition),LCD,Polar Night,128,2,3750,157,15.25,3.6,6549
+Motorola,G60,Android 11,AMOLED,Frosted Champange,128,6,3750,220,17,4,13495
+OnePlus,OnePlus 10R,OxygenOS,AMOLED,Forest Green,128,8,5000,190,16.3,4.2,38999
+IQOO,IQOO Z6 44W,Funtouch OS 12 based on Android 12,AMOLED,Lumina Blue,128,8,5000,182,16.1,4.1,16999
+Google,Redmi Note 11,Android 11,AMOLED,Black,32,2,3750,232,15.25,3.6,4888
+Redmi,Redmi Note 10T 5G,Android 11 - MIUI 12,AMOLED,Chromium White,512,4,5000,190,16.2,4.1,11999
+Redmi,Redmi Note 11T 5G,MIUI 12.5 based on Android 11,AMOLED,Aquamarine Blue,512,6,5000,195,16.4,4.1,15999
+Redmi,Redmi 6A,Android 8.1,AMOLED,Black,16,2,3750,152,15.25,4.1,6999
+Xiaomi,Redmi 10A,MIUI 12.5,LCD,Charcoal Black,64,8,5000,194,16.5,3.8,8999
+Lava,Lava AGNI 5G,Stock Android 11,AMOLED,Fiery Blue,128,8,5000,204,16.9,4.3,17990
+IKALL,Pink,Android 10.0,AMOLED,Pink,16,3,3750,232,15.25,2,4799
+Xiaomi,P3Q,MIUI 13,LCD,Sporty Orange,128,8,5750,203,17,3.5,14999
+Tecno,Tecno Spark 8 Pro (4/64GB),HiOS 7.6 based on Android 11,AMOLED,Interstellar Black,64,4,5000,196,16.9,4.2,10899
+Redmi,Redmi Note 11S,MIUI 13,AMOLED,Horizon Blue,128,8,5000,179,16,4,18499
+Tecno,Tecno Spark 8T(4/64GB),HiOS 7.6 based on Android 11,AMOLED,Atlantic Blue,64,4,5000,192,16.5,4.1,9899
+Tecno,"Tecno Spark 7 Pro ( Alps Blue, 6GB RAM 64GB Storage)",Android 11,LCD,Alps Blue,64,4,5000,193,16.5,3.9,10799
+Samsung,Samsung Galaxy M52 5G,Android 11,Super Amoled Plus,Blazing Black,128,6,5000,175,16.4,4.2,24999
+Redmi,Redmi 9A Sport,MIUI 12,AMOLED,Metallic Blue,512,2,5000,194,16.5,4.2,6999
+Samsung,Samsung Galaxy M33 5G,Android | 12.0,LCD,Mystique Green,128,6,5750,215,16.5,3.9,17999
+Samsung,Redmi Note 11,Android,AMOLED,Matte Aqua,128,6,5000,232,16.7,4,15494
+OnePlus,OnePlus Nord CE 2 5G,OxygenOS,AMOLED,Bahamas Blue,8,8,4500,173,16.1,4.3,24999
+OnePlus,OnePlus Nord 2T 5G,OxygenOS,AMOLED,Jade Fog,512,8,4500,190,15.9,4.2,33999
+Infinix,Redmi Note 11,Android,AMOLED,Graphite black,64,4,5000,232,16.4,4,11499
+Realme,Narzo 50A Prime,Android 11.0,AMOLED,Flash Blue,64,4,5000,193,16.4,4.1,11499
+Itel,L6006,Android 10.0,LCD,Gradation Purple,32,2,3750,152,15.6,3.8,5690
+Oppo,OPPO A15s,Android 10.0,AMOLED,Rainbow Silver,64,4,4230,152,16.4,4.3,9990
+IQOO,IQOO Z6 5G,Funtouch OS 12 based on Android 12,AMOLED,Chromatic Blue,128,6,5000,187,16.4,4,16999
+Vivo,Vivo Y73,"Android 11.1 based Funtouch OS 11.1, Funtouch OS 11.1 (Based on Android 11)",AMOLED,Roman Black,128,8,4000,170,16.1,4.4,19990
+Itel,L6006,Android 10.0,LCD,Gradation Green,32,2,3750,152,15.6,3.8,6038
+Realme,Realme 8 5g,Android,AMOLED,Supersonic Blue,128,4,3750,185,16.2,4,13495
+JioPhone,JIO PHONE NEXT,Android 10.0,AMOLED,Blue,32,2,3750,232,15.25,3.6,4648
+IQOO,IQOO Neo 6 5G,Funtouch OS 12 based on Android 12,AMOLED,Dark Nova,128,8,4700,190,16.3,4.4,29999
+Samsung,Galaxy M32,"Android 11, OneU 3.1",AMOLED,Black,128,6,5750,196,15.9,4.1,16999
+Samsung,Samsung Galaxy M53 5G,Android | 12.0,AMOLED,Deep Ocean Blue,128,6,5000,176,16.5,3.8,26499
+JioFi,JIO PHONE NEXT,Android 10.0,AMOLED,Blue,32,2,3750,232,15.25,3.4,4699
+Realme,C35,Android 11,AMOLED,Glowing Green,64,4,5000,189,16.4,3.6,13495
+Oppo,Redmi Note 11,Android 11,AMOLED,Blue Flame,128,6,5000,232,15.25,3.7,15499
+Redmi,Redmi Note 11 Pro +,MIUI 13,AMOLED,Mirage Blue,128,8,5000,202,16.4,4.2,18999
+Samsung,Samsung Galaxy A23,Android 12.0,AMOLED,Peach,128,8,5000,195,16.5,3.7,19999
+IQOO,IQOO Z5 5G,"Android 11 based Funtouch OS 12, Funtouch OS 12 based on Android 11",AMOLED,Mystic Space,128,8,5000,193,16.5,4.2,23990
+Google,Pixel 2 XL,Android,AMOLED,Just Black,128,4,3750,175,15.8,4.2,16700
+Redmi,Redmi Note 10T,"MIUI 12, Android 11 - MIUI 12",AMOLED,Metalic Black,64,4,5000,190,16.2,4.2,11999
+Redmi,Redmi Note 11,Android,AMOLED,Lime Green,32,4,5000,232,16.5,4,8499
+Lava,Lava Z3,Stock Android 11,LCD,Striped Blue,32,3,5000,192,16.5,4,7499
+Redmi,Redmi Note 11T 5G,MIUI 12.5 based on Android 11,AMOLED,Stardust White,512,6,5000,195,16.4,4.1,15999
+Itel,A25,Android 9.0,LCD,Gradation Purple,16,1,3750,153,15.25,3.8,4644
+IQOO,IQOO Z6 5G,Funtouch OS 12 based on Android 12,AMOLED,Chromatic Blue,128,4,5000,187,16.4,4,15499
+OnePlus,OnePlus Nord 2T 5G,OxygenOS,AMOLED,Jade Fog,128,8,4500,190,15.9,4.2,28999
+Redmi,Redmi Note 11 Pro +,MIUI 13,AMOLED,Stealth Black,512,8,5000,202,16.4,4.2,22999
+IKALL,Green,Android 10.0,AMOLED,Green,64,4,5000,232,17,5,7999
+Vivo,"Vivo Y75 (Moonlight Shadow, 8GB RAM, 128GB ROM) with No Cost EMI/Additional Exchange Offers",Funtouch OS 12,AMOLED,Dancing Waves,128,4,4050,172,16.1,4.1,20990
+Samsung,Galaxy M32,"Android 11, OneU 3.1",AMOLED,Light Blue,128,6,5750,196,15.9,4.1,16999
+Redmi,Redmi Note 11,MIUI 13,AMOLED,Space Black,64,4,5000,179,16,4.1,12999
+Nokia,Nokia C3 3/32,Android R,AMOLED,Green,32,3,5750,232,17.25,3.4,9999
+Tecno,Pova 3,HiOS 8.6 based on Android 12,AMOLED,Eco Black,128,8,5750,230,17.25,4.3,13499
+Oppo,F21 Pro,Android 11,AMOLED,Sunset Orange,128,8,4500,175,16,4,22999
+Oppo,OPPOA15s_4GB_128GB_White,Android 10.0,AMOLED,Fancy white,128,4,4230,175,16.4,4.3,10990
+Redmi,Redmi Note 11S,MIUI 13,AMOLED,Polar White,128,6,5000,179,16,4,17499
+Tecno,"Tecno Spark 7 Pro ( Magnet Black, 4GB RAM 64GB Storage)",Android 11,LCD,Magnet Black,64,4,5000,193,16.5,3.9,9899
+Redmi,Redmi Note 11 Pro +,MIUI 13,AMOLED,Stealth Black,128,8,5000,202,16.4,3.6,19999
+Redmi,Redmi Note 11 Pro +,MIUI 13,AMOLED,Mirage Blue,128,8,5000,202,16.4,3.6,19999
+Samsung,Samsung Galaxy A32,Android 11.0,AMOLED,Black,128,8,5000,184,15.9,4,20990
+Realme,Realme narzo 50A,Android 11,LCD,Oxygen Green,4,4,5750,207,16.5,4.2,11499
+Vivo,Redmi Note 11,Android 9.0,AMOLED,Dreamy White,128,8,4500,187,15.9,3,14999
+Oppo,A96,Android 11,AMOLED,Sunset Blue,128,8,5000,191,16.4,3.8,19999
+Realme,Realme narzo 50A,Android,AMOLED,Oxygen Blue,128,4,5750,207,16.5,3.9,10075
+Samsung,"Samsung M21, 2021 Edition",Android 11.0;OneUI Core3.1,AMOLED,Arctic Blue,64,4,5750,192,15.9,4.2,11499
+Nokia,Nokia C01 Plus,Android 11 (Go edition),LCD,Grey,128,2,3750,157,15.25,4.2,5777
+OnePlus,OnePlus Nord 2T 5G,OxygenOS,AMOLED,Gray Shadow,512,8,4500,190,15.9,4.2,33999
+Generic,JIO PHONE,Android 4.1,AMOLED,Black,4,4,3750,195,15.25,4.2,2999
+Lava,Lava Z2s_Blue,Android Stock,LCD,Striped Blue,32,2,5000,152,16.5,4.1,6499
+Redmi,Redmi Note 10S,Android 11,AMOLED,Frost White,64,6,5000,179,16,4.2,12999
+Tecno,Tecno Spark 8T(4/64GB),HiOS 7.6 based on Android 11,AMOLED,Turquoise Cyan,64,4,5000,192,16.5,4.1,9899
+IKALL,Grey,Android 10.0,AMOLED,Grey,16,3,3750,232,15.8,5,4699
+Samsung,Galaxy A12,Android 11.0,LCD,Black,64,4,5000,205,16.4,4,12999
+Nokia,Nokia C01,Android 11 (Go edition),LCD,Blue,16,2,3750,157,15.25,3.6,6298
+OnePlus,OnePlus Nord CE 2 Lite 5G,OxygenOS,AMOLED,Black Dusk,128,6,5000,195,16.4,4.2,19999
+Redmi,Redmi 9A Sport,MIUI 12,AMOLED,Metallic Blue,512,3,5000,194,16.5,4.2,7799
+Samsung,Samsung Galaxy A23,Android 12.0,AMOLED,Blue,128,8,5000,195,16.5,3.7,19999
+IQOO,"IQOO Z3 5G (Cyber Blue, 8GB RAM, 128GB Storage)","Android 11 - Funtouch OS 11.1 Global, Android 11 - Funtouch OS 11.1 Global;Funtouch OS 11.1 Global (Based on Android 11)",AMOLED,Cyber Blue,128,4,4400,185,16.4,4.3,20999
+Realme,Narzo 50A Prime,Android 11.0,AMOLED,Flash Black,64,4,5000,193,16.4,4.1,11499
+Redmi,Redmi 9 Activ,"Andriod MIUI 21, MIUI 21",AMOLED,Carbon Black,128,6,5000,194,16.5,4.2,11499
+Samsung,Galaxy M32 5G,Android 11,LCD,Sky Blue ,128,6,5000,202,16.4,4.1,16999
+Vivo,"Vivo Y21 (Diamond Glow, 4GB RAM, 64GB ROM)",Android 11 - Funtouch OS 11.1,AMOLED,Dimond Glow,64,4,5000,182,16.4,4,13490
+Realme,Realme narzo 50A,Android 11,LCD,Oxygen Blue,4,4,5750,207,16.5,4.2,12499
+Itel,P651L,"Go Edition, Android 11",LCD,Gradation Purple,32,2,5000,190,16.6,3.9,5999
+Itel,It9210,Mocor,AMOLED,Black,64,8,3750,152,15.25,3.9,2999
+Oppo,Narzo 30,Android 11,AMOLED,Racing Silver,64,4,5000,192,16.2,4.6,10499
+Tecno,Phantom X,"HiOS 8.0 based on Android 11, Android 10.0",AMOLED,Summer Sunset,8,8,4700,198,16.4,2.7,22099
+Vivo,IQOO Z6 5G-cr,Android 10.0,AMOLED,Chromatic Blue,128,4,5000,232,15.25,3.4,13499
+Oppo,A74 Fantastic Purple,Android 11,AMOLED,Fantastic Purple,128,6,5000,188,16.3,4.2,14990
+Realme,Narzo 50,Android 11,AMOLED,Speed Blue,128,6,5000,194,16.5,4.3,15499
+Xiaomi,Redmi 10 Prime,"MIUI 12.5, Android MIUI 12.5",LCD,Astral White,128,6,5750,192,16.2,4.1,13499
+Tecno,Pova 3,HiOS 8.6 based on Android 12,AMOLED,Electric Blue,128,8,5750,230,17.25,4.3,13499
+Itel,L5006C,"Go Edition, Android 10.0",AMOLED,Lake Blue,8,1,3750,156,15.25,1,3190
+Xiaomi,Xiaomi 11 Lite 5G,"Android 11 MIUI 12.5 on, 3 years of Android updates, MIUI 12.5 on Android 11, 3 years of Android updates","AMOLED, OLED",Vinyl Black,128,6,4250,158,16.1,4,23999
+Tecno,POVA Neo (6/128GB),HiOS 7.6 based on Andriod 11,AMOLED,Geek Blue,6,6,5750,212,17.1,3.4,11799
+Vivo,"Vivo Y21 (Diamond Glow, 4GB RAM, 64GB ROM)",Android 11 - Funtouch OS 11.1,AMOLED,Diamond Glow,512,4,5000,182,16.4,4,13175
+Nokia,1,Android 8.0,AMOLED,Dark Blue,8,1,3750,152,15.25,3.6,5499
+Oppo,A74Fluid Black,Android 11,AMOLED,Fluid Black,128,6,5000,188,16.3,4.2,14990
+Redmi,Redmi 9A Sport,MIUI 12,AMOLED,Coral Green,512,2,5000,194,16.5,4.2,6999
+Xiaomi,Redmi 10A,MIUI 12.5,LCD,Slate Grey,64,8,5000,194,16.5,3.8,8999
+Redmi,Redmi 9 Activ,"MIUI 23, Andriod MIUI 23",AMOLED,Coral Green,128,6,5000,194,16.5,4.2,10999
+Samsung,Samsung Galaxy M33 5G,Android | 12.0,LCD,Deep Ocean Blue,128,8,5750,215,16.5,3.9,19499
+Redmi,Redmi Note 10S,Android 11,AMOLED,Cosmic purple,512,6,5000,179,16,4.2,12999
+Vivo,5660172,Funtouch OS 12 (Based on Android 11),AMOLED,Glowing Galaxy,128,8,5000,182,16.4,3.5,21990
+Realme,Narzo 50A Prime,Android 11.0,AMOLED,Flash Black,128,4,5000,193,16.4,4.1,12499
+OnePlus,OnePlus Nord CE 2 Lite 5G,OxygenOS,AMOLED,Black Dusk,128,8,5000,195,16.4,4.2,21999
+Samsung,Samsung Galaxy M33 5G,Android | 12.0,LCD,Deep Ocean Blue,128,6,5750,215,16.5,3.9,17999
+ASUS,"DC ZD553KL (Black, 4GB +64GB)",IOS 10,AMOLED,Black,64,4,3750,232,15.25,4.2,7592
+Oppo,A57,Android 12,AMOLED,Glowing Green,64,4,5000,187,16.4,3.8,13999
+Realme,C25S,Android 11,AMOLED,Watery Grey,128,4,5750,209,16.4,4,13495
+Oppo,Redmi Note 11,Android 11,AMOLED,Colour,128,6,5000,232,16.4,3.7,15290
+OnePlus,OnePlus Nord CE 2 Lite 5G,OxygenOS,AMOLED,Blue Tide,128,6,5000,195,16.4,4.2,19999
+IKALL,Green,Android 10.0,AMOLED,Green,16,3,3750,232,15.25,2,4799
+IKALL,Blue,Android 10.0,AMOLED,Blue,16,3,3750,232,15.8,5,4699
+SHIVANSH,S10 Plus,Android 8.1,AMOLED,Black,8,1,3750,195,15.25,4.2,3690
+Xiaomi,Xiaomi 11 Lite 5G,"Android 11 MIUI 12.5 on, 3 years of Android updates, MIUI 12.5 on Android 11, 3 years of Android updates","AMOLED, OLED",Jazz Blue,128,8,4250,158,16.1,4,25999
+Tecno,Tecno Pop 5 LTE (2GB/32GB),HiOS 7.6 based on Android 11,AMOLED,Deepsea Luster,32,2,5000,195,16.5,4.1,6899
+Tecno,Tecno Spark 8 Pro (4/64GB),HiOS 7.6 based on Android 11,AMOLED,Turquoise Cyan,512,4,5000,196,16.9,4.2,10899
+Oppo,A54,Android 10.0,AMOLED,Starry Blue,64,4,5000,192,16.4,4.2,10990
+Samsung,SM-A135FZKGINS,Android 12.0,AMOLED,Black,64,4,5000,195,16.5,3.8,13999
+Samsung,Galaxy M12,Android 11,LCD,Black,64,4,5750,221,16.4,4.1,10499
+Redmi,Redmi Note 11-cr,MIUI 11,AMOLED,Starburst White,64,4,5000,232,15.25,4.2,12499
+Motorola,G22,Android 12,AMOLED,Iceberg Blue,64,4,5000,185,16.4,4.2,13495
+Realme,Realme narzo 50 5G,Android 12,AMOLED,Hyper Blue,128,6,5000,195,17.25,4.3,17999
+Realme,9 5G,Android 11,LCD,Meteor Black,64,4,5000,199,16.4,3.3,13490
+OnePlus,OnePlus 10R-cr,Android 12.0,AMOLED,Sierra Black,512,8,5000,232,17.25,4.2,42499
+IKALL,Blue,Android 10.0,AMOLED,Blue,32,3,4000,232,15.8,2.4,5999
+Redmi,Redmi Note 11,MIUI 13,AMOLED,Horizon Blue,64,6,5000,179,16,4.1,13999
+Oppo,OPPOA15s_4GB_128GB_Black,Android 10.0,AMOLED,Dynamic black,128,4,4230,175,17.25,4.3,10990
+Realme,Narzo 50,Android 11,AMOLED,Speed Black,64,4,5000,194,16.5,4.3,12999
+Redmi,Redmi Note 11T 5G,MIUI 12.5 based on Android 11,AMOLED,Matte Black,512,6,5000,195,16.4,4.1,15999
+Oppo,A54,Android 10.0,AMOLED,Moonlight Gold,64,4,5000,192,16.4,4.2,10990
+Generic,Redmi Note 11,Android 11,LED,Black,128,4,3750,232,16.7,4.2,10096
+Redmi,Redmi Note 11 Pro +,MIUI 13,AMOLED,Stealth Black,128,8,5000,202,16.4,3.6,22999
+Realme,Realme narzo 50i,Android 11,LCD,Mint Green,32,2,5000,195,16.5,4,7499
+IKALL,Tarnish,Android 10.0,AMOLED,Tarnish,64,4,4000,232,15.8,2.5,7299
+Xiaomi,Redmi 10 Prime,"MIUI 12.5, Android MIUI 12.5",LCD,Phantom Black,128,6,5750,192,16.2,4.1,13499
+Samsung,Galaxy M32 5G,Android 11,LCD,Sky Blue ,128,8,5000,202,16.4,4.1,18999
+Samsung,Galaxy M32,"Android 11, OneU 3.1",AMOLED,Black,64,4,5750,196,15.9,4.1,14999
+Samsung,Samsung Galaxy M33 5G,Android | 12.0,LCD,Mystique Green,128,8,5750,215,16.5,3.9,19499
+Oppo,CPH2015,Android 9.0,AMOLED,Fantasy White,128,4,4230,180,16.4,4.2,11990
+Vivo,Y15s,FunTouch OS 10,LCD,Mystic blue,32,3,5000,179,16.4,4.1,9499
+Tecno,Tecno Camon 17 (6GB|128GB),"HiOS 7.6;Android 11, Android 11 HiOS 7.6",AMOLED,Frost Silver,128,6,5000,202,16.9,3.9,13999
+Tecno,Pova 3,HiOS 8.6 based on Android 12,AMOLED,Eco Black,64,8,5750,230,17.25,4.3,11999
+Samsung,Samsung Galaxy M52 5G,Android 11,Super Amoled Plus,Icy Blue,128,8,5000,175,16.4,4.2,26999
+Redmi,"(Renewed) POCO C3 (Arctic Blue, 64 GB) (4 GB RAM)",Android,AMOLED,Arctic Blue,64,4,5000,232,16.5,4,8800
+IQOO,IQOO Z6 44W,Funtouch OS 12 based on Android 12,AMOLED,Lumina Blue,128,4,5000,182,16.1,4.1,14499
+Realme,Realme narzo 50i,Android 11,LCD,Mint Green,64,4,5000,195,16.5,4,8999
+Itel,L5006C,"Go Edition, Android 10.0",AMOLED,Sapphire Blue,8,1,3750,156,15.25,3,3999
+Vivo,"Vivo Y21G (Midnight Blue, 4GB RAM, 64GB ROM)",Funtouch OS 12 (Based on Android 11),AMOLED,Midnight Blue,64,4,5000,182,16.4,3.9,13499
+IKALL,Sky Blue,Android 10.0,AMOLED,Sky Blue,64,4,5000,232,17,5,7999
+Redmi,Redmi Note 10S,Android 11,AMOLED,Deep Sea Blue,64,6,5000,179,16,4.2,12999
+Tecno,Pova 3,HiOS 8.6 based on Android 12,AMOLED,Tech Silver,64,8,5750,230,17.25,4.3,11999
+OnePlus,OnePlus Nord 2T 5G,OxygenOS,AMOLED,Gray Shadow,128,8,4500,190,15.9,4.2,28999
+Samsung,Samsung Galaxy A23,Android 12.0,AMOLED,Black,128,6,5000,195,16.5,3.7,18499
+OnePlus,OnePlus 6,Android 8.1,AMOLED,Mirror Black,64,6,3750,177,15.6,3.3,13485
+Tecno,Phantom X,"HiOS 8.0 based on Android 11, Android 10.0",AMOLED,Summer Sunset,8,8,4700,198,16.4,4.2,25999
+Tecno,Tecno Pop 5 LTE (2GB/32GB),HiOS 7.6 based on Android 11,AMOLED,Turquoise Cyan,32,2,5000,195,16.5,4.1,6899
+Infinix,Redmi Note 11,Android,AMOLED,Glacier Green,64,4,5000,232,16.4,4,11499
+Oppo,CPH2015,Android 9.0,AMOLED,Mystery Black,128,4,4230,180,16.4,4.2,11990
+Redmi,Redmi Note 11,Android 11,AMOLED,Black,128,4,5000,152,15.25,4.2,4999
+Realme,Realme c20,Android,AMOLED,Cool Grey,32,2,3750,190,16.5,3.8,7450
+Redmi,Redmi Note 11,MIUI 13,AMOLED,Stardust White,128,6,5000,179,16,4.1,15999
+Vivo,"Vivo Y53s (Deap Sea Blue, 8GB RAM, 128GB ROM)",Android 11 - Funtouch OS 11.1,AMOLED,Deap Sea Blue,512,4,5000,190,16.4,4.1,19989
+Redmi,Redmi Note 11,MIUI 13,AMOLED,Horizon Blue,64,4,5000,179,16,4.1,12999
+Samsung,Samsung Galaxy M33 5G,Android | 12.0,LCD,Emerald Brown,128,6,5750,215,16.5,3.9,19499
+IKALL,Gross Green,Android 10.0,AMOLED,Gross Green,16,3,4000,232,15.8,5,5299
+Redmi,Redmi 9 Activ,"Andriod MIUI 20, MIUI 20",AMOLED,Coral Green,64,4,5000,194,16.5,4.2,8999
+Lava,Lava Z21,Stock Android 11 Go,AMOLED,Cyan,32,2,3750,187,15.25,3.4,5299
+Samsung,"Samsung M21, 2021 Edition",Android 11.0;OneUI Core3.1,AMOLED,Charcol Black,64,4,5750,192,15.9,4.2,11499
+Samsung,Galaxy M12,Android 11,LCD,Black,128,6,5750,221,16.4,4.1,12499
+Redmi,Redmi 9A Sport,MIUI 12,AMOLED,Carbon Black,512,3,5000,194,16.5,4.2,7799
+Xiaomi,Xiaomi 11 Lite 5G,"Android 11 MIUI 12.5 on, 3 years of Android updates, MIUI 12.5 on Android 11, 3 years of Android updates","AMOLED, OLED",Jazz Blue,128,6,4250,158,16.1,4,23999
+IQOO,IQOO Z6 Pro 5G,Funtouch OS 12 based on Android 12,AMOLED,Phantom Dusk,128,8,4700,180,16,4.3,24999
+Oppo,F19 Prism Black,Android 11,AMOLED,Prism Black,128,6,5000,175,16,4.1,14990
+Nokia,Nokia C01,Android 11 (Go edition),LCD,Blue,128,2,3750,157,15.25,3.4,5589
+Tecno,Pova 3,HiOS 8.6 based on Android 12,AMOLED,Tech Silver,128,8,5750,230,17.25,4.3,13499
+Samsung,Samsung Galaxy M53 5G,Android | 12.0,AMOLED,Mystique Green,128,8,5000,176,16.5,3.8,28499
+IKALL,Grey,Android 10.0,AMOLED,Grey,64,4,5000,232,17,5,7999
+Samsung,SM-A135FZKHINS,Android 12.0,AMOLED,Black,128,4,5000,195,16.5,3.8,14999
+IKALL,Sky Blue,Android 10.0,AMOLED,Sky Blue,64,4,4000,232,15.8,5,7499
+MAPLIN,Maplin-Map2Pro-Royal Gold,Android 8.1,AMOLED,Royal Gold,128,6,5000,152,15.4,5,13495
+Oppo,CPH2179,Android 10.0,AMOLED,Fancy White,64,4,4230,175,16.4,4.3,9990
+Redmi,Redmi Note 11,MIUI 13,AMOLED,Space Black,64,6,5000,179,16,4.1,13999
+IKALL,Grey,Android 8.1,AMOLED,Grey,32,4,3750,232,15.25,4.2,5399
+Lava,Lava Z3,Android 11 Stock,LCD,Striped Cyan,32,3,5000,192,16.5,4,7499
+Xiaomi,Redmi 10A,MIUI 12.5,LCD,Sea Blue,64,8,5000,194,16.5,3.8,8999
+Realme,Redmi Note 11,Android 9.0,AMOLED,Black,128,8,4500,232,15.25,3.5,16999
+Realme,Realme C25Y,Android 11,LCD,Glacier Blue,64,4,5000,200,16.5,3.9,10900
+Itel,It5626,Nucleus OS,LED,Dark Green,8,8,3750,153,15.25,3.8,1999
+JioFi,JIO PHONE NEXT,Android 10.0,AMOLED,Black,2,2,3750,232,15.25,3.5,4690
+Vivo,Y01,FunTouch OS 10,AMOLED,Sapphire Blue,32,8,5000,182,16.4,4,8499
+Realme,Redmi Note 11,Android,"LCD, LED",Glacier Blue,128,4,5000,232,15.25,3.9,13495
+Vivo,Y15C,Funtouch OS 12 (Based on Android 12),AMOLED,Mystic Blue,64,3,5000,179,16.4,3.1,10499
+Redmi,Redmi Note 11,Android 11,AMOLED,Black,128,4,3750,195,15.25,2.7,3499
+IKALL,Blue,Android 10.0,AMOLED,Blue,16,3,3750,232,15.25,3,4699
+Redmi,Redmi 9 Activ,"MIUI 12, Android MIUI 12",AMOLED,Mettalic Blue,64,4,5000,194,16.5,4.2,8999
+Redmi,Redmi 9A Sport,MIUI 12,AMOLED,Carbon Black,512,2,5000,194,16.5,4.2,6999
+OnePlus,OnePlus Nord CE 2 5G,OxygenOS,AMOLED,Gray Mirror,8,8,4500,173,16.1,4.3,24999
+Tecno,KF8_128,"HiOS 7.6, Android 11",LCD,Nebula Orange,128,8,5750,205,16.5,4,10399
+Vivo,Y15C,Funtouch OS 12 (Based on Android 12),LCD,Mystic Blue,32,3,5000,179,16.4,3.1,9499
+Oppo,F19 Midnight Blue,Android 11,AMOLED,Midnight Blue,128,6,5000,175,16,4.1,14990
+Realme,Realme narzo 50A,Android 11,LCD,Oxygen Green,4,4,5750,207,16.5,4.2,12499
+IKALL,Green,Android 10.0,AMOLED,Green,64,4,4000,232,15.8,3,7299
+Redmi,Redmi Note 11 Pro +,MIUI 13,AMOLED,Stealth Black,512,8,5000,202,16.4,3.6,24999
+Vivo,"Vivo Y33T (Starry Gold, 8GB RAM, 128GB ROM)",Funtouch OS 12 (Based on Android 11),AMOLED,Starry Gold,128,4,5000,182,16.4,4.1,17990
+Xiaomi,P19T,MIUI 12.5,AMOLED,Phantom Black,64,8,5750,192,16.2,4.1,10999
+Nokia,Nokia C20 Plus,Android 11 (Go edition),AMOLED,Dark Grey,32,3,5000,196,16.5,3.7,8999
+Nokia,Nokia G20,Android 11,AMOLED,Silver,64,4,5050,196,16.5,3.7,12990
+IKALL,Tarnish,Android 10.0,AMOLED,Tarnish,64,4,5000,232,17,5,7999
+IQOO,IQOO Z6 44W,Funtouch OS 12 based on Android 12,AMOLED,Raven Black,128,6,5000,182,16.1,4.1,15999
+Redmi,Redmi Note 10 Pro,Android,FHD +,Dark Nebula,128,6,5020,192,16.5,4.2,15999
+Generic,C31,Android 10.0,"LCD, LED",Shadow Gray,4,4,5000,232,15.25,3.5,8985
+Redmi,Redmi Note 11,MIUI 13,AMOLED,Horizon Blue,128,6,5000,179,16,4.1,15999
+IKALL,Dark Blue,Android 10.0,AMOLED,Dark Blue,16,3,4000,232,15.8,5,5299
+Realme,Realme C31,Android 11,AMOLED,Light Silver,32,3,5000,197,16.5,4.5,9299
+Vivo,"Vivo Y33T (Mirror Black, 8GB RAM, 128GB ROM)",Funtouch OS 12 (Based on Android 11),AMOLED,Mirror Black,512,4,5000,182,16.4,4.1,17990
+Vivo,Y15s,FunTouch OS 10,LCD,Wave Green,3,3,5000,179,16.4,4.1,9499
+Oppo,F21 Pro,Android 11,AMOLED,Cosmic Black,128,8,4500,175,16,4,22999
+Lava,Lava Z21,Stock Android 11 Go,AMOLED,Blue,32,2,3750,187,15.25,3.4,5299
+Tecno,Phantom X,"HiOS 8.0 based on Android 11, Android 10.0",AMOLED,Iceland Blue,8,8,4700,198,16.4,4.2,25999
+Xiaomi,Redmi 10 Prime,"MIUI 12.5, Android MIUI 12.5",LCD,Phantom Black,64,4,5000,192,16.2,4.1,10999
+IQOO,IQOO Z6 Pro 5G,Funtouch OS 12 based on Android 12,AMOLED,Phantom Dusk,512,8,4700,180,16,4.3,28999
+IKALL,Sky Blue,Android 10.0,AMOLED,Sky Blue,64,4,4000,232,15.8,3,7299
+Oppo,A76,Android 11,AMOLED,Glowing Blue,128,6,5000,189,16.4,4.1,16490
+OnePlus,OnePlus 10R,OxygenOS,AMOLED,Sierra Black,512,8,4500,190,16.3,4.2,43999
+Redmi,Redmi 5,Android,LCD,Black,32,3,3750,159,15.25,4.2,8499
+Redmi,Redmi Note 10T,MIUI 12,AMOLED,Mint Green,64,4,5000,190,16.2,4.2,11999
+Motorola,Redmi Note 11,Android 12,AMOLED,Misty Silver,128,3,5000,185,16.4,4.2,9999
+Vivo,Y01,FunTouch OS 10,AMOLED,Elegant Black,32,8,5000,182,16.4,4,8499
+Tecno,Tecno Pop 5 LTE (2GB/32GB),HiOS 7.6 based on Android 11,AMOLED,Ice Blue,32,2,5000,195,16.5,4.1,6899
